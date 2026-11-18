@@ -20,7 +20,7 @@ private val reveraDev = Compatibility(
 
 // Stable channel id used by Revera's build script for non-beta releases.
 private val reveraStable = Compatibility(
-    name = "Revera",
+    name = "Revera (stable)",
     packageName = "app.revera",
     apkFileType = ApkFileType.APK,
     appIconColor = 0x1ED760,
