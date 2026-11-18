@@ -19,7 +19,7 @@ Supported packages: `app.revera.dev` (GitHub Releases builds) and `app.revera`.
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/tomi38/revera-morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v1.0.1](https://github.com/tomi38/revera-morphe-patches/releases/tag/v1.0.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Revera&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -31,7 +31,7 @@ Supported packages: `app.revera.dev` (GitHub Releases builds) and `app.revera`.
 </details>
 
 <details open>
-<summary>📦 Revera&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<summary>📦 Revera (stable)&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
