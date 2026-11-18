@@ -19,9 +19,27 @@ Supported packages: `app.revera.dev` (GitHub Releases builds) and `app.revera`.
 ## Patches
 
 <!-- PATCHES_START EXPANDED -->
-| Patch | Description |
-|---|---|
-| Spotify branding | Renames Revera to Spotify and replaces the launcher (all color variants), themed, splash, widget and notification icons with the Spotify mark. |
+> **[v1.0.0](https://github.com/tomi38/revera-morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+<details open>
+<summary>📦 Revera&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Spotify branding](#spotify-branding) | Renames Revera to Spotify and replaces the launcher (all color variants), themed, splash, widget and notification icons with the Spotify mark. |  |
+
+</details>
+
+<details open>
+<summary>📦 Revera&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Spotify branding](#spotify-branding) | Renames Revera to Spotify and replaces the launcher (all color variants), themed, splash, widget and notification icons with the Spotify mark. |  |
+
+</details>
+
 <!-- PATCHES_END -->
 
 ## Building
